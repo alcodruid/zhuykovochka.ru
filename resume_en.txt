@@ -1,0 +1,107 @@
+ALINA ZHUYKOVA
+Native Android Developer (Kotlin) | IS Engineer
+
+CONTACTS
+--------------------------------------------------------------------------------
+Phone:    +7 (981) 139-96-01
+Email:    cv@zhuykovochka.ru
+Telegram: @zhuykovochka
+GitHub:   github.com/zhuykovochka
+Location: St. Petersburg, Russia
+
+ABOUT DETAILS
+--------------------------------------------------------------------------------
+Promising Junior/Trainee Android Developer. 5 semesters completed, continuing my 
+studies in the specialty with interest and enthusiasm. I have practical experience 
+implementing the full development cycle: from requirements analysis and MVVM 
+architecture design to REST API integration and application debugging. My profile 
+is strengthened by a deep understanding of algorithms, IS architecture, networks, 
+and databases.
+
+TECHNICAL STACK
+--------------------------------------------------------------------------------
+• Android: Kotlin, Java, Android Studio, MVVM, LiveData, Room, RecyclerView, Material Design
+• Engineering: Algorithms & Data Structures, C++, C#, Python, IS Architecture
+• Tools & Network: Git, Gradle, REST API, HTTP, SQL / SQLite, Yandex MapKit, Neural Networks
+• Soft Skills: English C1 (PET/FCE), Self-Learning, Detail Oriented, System Thinking, Teamwork
+
+PROJECTS
+--------------------------------------------------------------------------------
+(All projects were developed independently, without the use of AI-generated code)
+
+1. LibraryApp
+   Role: Android (Kotlin, MVVM)
+   Description: Android application in Kotlin implementing a catalog and library 
+   management with data storage in Room database and loading information from 
+   external JSON API.
+   Key Features:
+   - Full implementation of CRUD functionality for data management.
+   - Successful integration with external REST API for data synchronization.
+   - MVVM + Room architecture for local storage.
+   - Material Design UI with adaptive components.
+
+2. TimeConverter
+   Role: Android (Kotlin)
+   Description: Mobile application for time unit conversion, developed in Kotlin for Android.
+   Key Features:
+   - Supports 10 conversion directions: seconds, minutes, hours, days, weeks, months, etc.
+   - Intuitive interface with instant conversion.
+   - Optimized work with various time units.
+
+3. MetroSPB-Navigator
+   Role: C# / Desktop Application
+   Description: Application for finding the shortest path in the St. Petersburg metro.
+   Key Features:
+   - Uses Dijkstra's algorithm to calculate the optimal route.
+   - Considers travel time and transfers between stations.
+   - Route visualization and travel time calculation.
+
+4. KrasnodarMapApp
+   Role: Android (Yandex MapKit)
+   Description: Geolocation application for Krasnodar with advanced mapping and navigation.
+   Key Features:
+   - Integration of Yandex Maps API with custom markers.
+   - Implementation of navigation and geolocation services.
+   - Map rendering optimization for smooth performance.
+
+5. AirHockey
+   Role: C++ / Game Development
+   Description: Exciting 3D PC game where speed, strategy, and reaction play a key role.
+   Key Features:
+   - Implementation of physics engine with collision detection.
+   - Algorithms for processing inertia and object dynamics.
+   - Optimized Game Loop for smooth gameplay.
+   - Multiplayer for playing with friends.
+
+6. TeaShop Simulator
+   Role: C# / Desktop WinForms
+   Description: Desktop application in C# (WinForms) simulating a tea shop.
+   Key Features:
+   - Accounting and reporting system with database.
+   - Inventory and warehouse operations management.
+   - Realistic simulation of the purchasing process.
+   - WinForms interface with SQL integration.
+
+EXPERIENCE
+--------------------------------------------------------------------------------
+T-Bank (FinTech)
+Deposit Products Specialist (Chat Support)
+Key Achievements:
+- Working in a high-performance fintech environment, developing professional skills.
+- Developed the skill of quick decision-making and effective information flow management (Multitasking).
+- Applying communication skills to solve complex issues (Client-oriented).
+- Made an impression with readiness to learn and a proactive approach.
+- Interaction with technical teams under high load conditions.
+
+EDUCATION
+--------------------------------------------------------------------------------
+SUAI (Saint Petersburg State University of Aerospace Instrumentation)
+Degree: Bachelor's • Information Systems and Technologies
+Dates: 2023 – Present
+Profile: Information Technologies in Media Industry
+Practice: Completed 6 weeks of educational practice (in 2nd and 4th semesters).
+
+Key Disciplines: 
+Programming Technologies, IS Architecture, Infocommunication Systems and Networks, 
+Requirements Development and Analysis, Algorithms and Data Structures, 
+Computer Architecture, Computational Mathematics.
